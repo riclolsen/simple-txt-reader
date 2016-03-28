@@ -63,12 +63,6 @@ in the Registry.
 The GPL'd sorce code is available and can be compiled with 
 C++ Builder 6.0 Personal Edition.
 
-Please let me know your opinion about TxtReader.
-
-Send comments to the author:
-
-   Ricardo Lastra Olsen - olsen.ricardo@gmail.com
-
 DISCLAIMER:
 
 This computer program is given "AS IS" and without any kind of warranties expressed or
